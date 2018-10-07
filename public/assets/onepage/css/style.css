@@ -718,6 +718,7 @@ a:hover {
   text-align: center;
 }
 .tb-socio .fa {
+  width:66px;
   height: 66px;
   color: #b3bdc6;
   border-radius: 50% !important;
